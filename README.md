@@ -22,7 +22,6 @@ landing page e tentei deixa-lo mais atrativo adicionando animações como no pro
 
 ## 🖼️ Layout
 
-https://betafontes.github.io/rock-paper-scissors-game/
 
 ![image](https://user-images.githubusercontent.com/70981960/228690367-4e76ccc6-b9bc-4fae-9680-104d09639319.png)
 
